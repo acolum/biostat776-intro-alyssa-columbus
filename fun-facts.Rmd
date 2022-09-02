@@ -1,0 +1,19 @@
+---
+title: "Five Fun Facts!"
+description: |
+  Five Fun Facts about Alyssa Columbus
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+1. I enjoy spending time outdoors, especially by the ocean.
+
+2. I also enjoy birdwatching. My favorite birds are [Cedar Waxwings](https://www.allaboutbirds.org/guide/Cedar_Waxwing/overview).
+
+3. One of my hobbies is competing in online cybersecurity (i.e., Capture the Flag) competitions.
+
+4. I enjoy volunteering, especially for the [Girl Scouts](https://www.girlscouts.org/).
+
+5. I am the founder of [the Irvine, CA chapter of R-Ladies Global](https://www.rladiesirvine.org).

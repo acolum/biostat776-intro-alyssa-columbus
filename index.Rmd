@@ -1,0 +1,30 @@
+---
+title: "Alyssa Columbus"
+image: "headshot.jpeg"
+links:
+  - label: Website
+    url: "https://www.alyssacolumbus.com"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/acolum"
+  - label: GitHub
+    url: "https://github.com/acolum"
+  - label: ORCID iD
+    url: "https://orcid.org/0000-0002-5510-8364"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=hV-1lnAAAAAJ"
+site: distill::distill_website
+output:
+  postcards::trestles
+---
+
+## Introduction
+
+My name is Alyssa Columbus, and I am a first-year Biostatistics PhD student at the [Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu/). Before starting my PhD, I worked professionally as a data scientist, information security analyst, and consultant. I have also conducted research on topics including breast cancer risk assessment models and neural implementations of survival analyses for circadian rhythms. I hold a bachelor's degree in Mathematics from the [University of California, Irvine](https://uci.edu) and a master's degree in Applied and Computational Mathematics from [Johns Hopkins University](https://www.jhu.edu/). 
+
+In this course, I look forward to learning more about how statistical computing tools and workflows are used in academic contexts.
+
+### Additional Information
+
+Five fun facts about me can be found on the ["Fun Facts" page](fun-facts.html). 
+
+["A Cool Link"](https://r-graph-gallery.com/) redirects to the R Graph Gallery, which provides code snippets and previews of many visualizations that can be made with R. I've included this resource here because I've used it many times, and it may be helpful for other students in this course.

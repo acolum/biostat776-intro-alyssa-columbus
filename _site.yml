@@ -1,0 +1,14 @@
+name: "."
+title: "Biostatistics 776 Introduction: Alyssa Columbus"
+description: |
+  A Website Introduction for Biostat776 by Alyssa Columbus
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Fun Facts"
+      href: fun-facts.html
+    - text: "A Cool Link"
+      href: https://r-graph-gallery.com/
+output: distill::distill_article
